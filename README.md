@@ -1,6 +1,6 @@
 <img width = "1000" height = "300" src = "https://private-user-images.githubusercontent.com/19783675/259906130-5d3c8800-fb00-45d0-b9dd-7eb82f057baf.gif?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MDI5ODc1NzIsIm5iZiI6MTcwMjk4NzI3MiwicGF0aCI6Ii8xOTc4MzY3NS8yNTk5MDYxMzAtNWQzYzg4MDAtZmIwMC00NWQwLWI5ZGQtN2ViODJmMDU3YmFmLmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFJV05KWUFYNENTVkVINTNBJTJGMjAyMzEyMTklMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjMxMjE5VDEyMDExMlomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTk1NmYwNjYwM2IyOGQwYjM4Y2ZjNjlkZmE1Y2QyMWRiMGU0M2YyYjJiMmFiNGZjOWY4OTBjNWIxODg2ZDAyNDYmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0JmFjdG9yX2lkPTAma2V5X2lkPTAmcmVwb19pZD0wIn0.SFcf1bKmipd_3YlJV51nTFldqGzFUN7U3RAl0gCKNwo">
 <h1 align="center">Hi 👋, I'm Shubham</h1>
-<p align="left"> <img align = "right" width = "400" height = "200" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/media/7ed7d5ca074b48b328150e5a231e8d1f.gif" alt="shubham1734" /> </p>
+<p align="left"> <img align = "right" width = "350" height = "200" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/media/7ed7d5ca074b48b328150e5a231e8d1f.gif" alt="shubham1734" /> </p>
 
 - 🌱 I’m currently learning **React Js and other Frontend frameworks.**
 
