@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Shubham</h1>
 <p align="left"> <img align = "right" width = "350" height = "200" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/media/7ed7d5ca074b48b328150e5a231e8d1f.gif" alt="shubham1734" /> </p>
 
-- 🌱 I’m currently learning **React Js and other Frontend frameworks.**
+- 🌱 I’m currently learning **Java Spring Boot and other Backend frameworks.**
 
 - 💬 Ask me about **Data structure and algrithms,MERN Development,Coding.**
 
